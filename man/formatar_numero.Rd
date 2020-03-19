@@ -17,5 +17,5 @@ Dispor Números em Formato Amigável
 }
 \examples{
 formatar_numero(4321) # "4,32 mil"
-formatar_numero(1e9) # "1 bilhÃµes"
+formatar_numero(1e9) # "1 bilhões"
 }
